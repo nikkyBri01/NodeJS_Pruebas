@@ -1,0 +1,17 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Nicole",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "prettier-eslint": "^16.3.0"
+  },
+  "dependencies": {
+    "uuid": "^10.0.0"
+  }
+}

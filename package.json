@@ -1,11 +1,11 @@
 {
-  "name": "nodejs",
+  "name": "mi-proyecto",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "start": "node app.js"
   },
-  "author": "Nicole",
+  "author": "",
   "license": "ISC",
   "description": "",
   "devDependencies": {
